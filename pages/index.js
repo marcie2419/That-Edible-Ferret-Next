@@ -10,8 +10,8 @@ const Initialiseren = (props) => {
           <meta property="og:title" content="That Edible Ferret" />
         </Head>
         <iframe
-          src="https://www.youtube.com/embed/DeQkMK5LME4"
           allowFullScreen
+          src="https://mtechnl.company.site"
           className="initialiseren-iframe"
         ></iframe>
       </div>
